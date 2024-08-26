@@ -1,0 +1,2 @@
+numpy<2
+faiss-search @ git+https://github.com/hc-sc-ocdo-bdpd/faiss-search.git@packaging
