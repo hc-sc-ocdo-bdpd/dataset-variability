@@ -1,0 +1,5 @@
+{
+    "encoding_model": "Meta-Llama-3.1-8B-Instruct-Q8_0.gguf",
+    "is_gguf": true,
+    "number_of_chunks": 1037
+}
