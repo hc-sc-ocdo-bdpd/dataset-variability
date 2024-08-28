@@ -1,1 +1,3 @@
 *.npy
+*.gguf
+sample_text_files
